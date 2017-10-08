@@ -1,0 +1,5 @@
+Name|PurchasedProduct|Review
+Diana|Injustice 2|Wonder Woman rocks!
+|Mortal Kombat X|
+Earl|Marvel vs Capcom: Infinite|Didn't take me for a ride
+|Street Fighter V|5 out of 5!!!
